@@ -1,0 +1,7 @@
+C:\Visual Studio Code\Water Bill\Water Bill\bin\Debug\Water Bill.exe.config
+C:\Visual Studio Code\Water Bill\Water Bill\bin\Debug\Water Bill.exe
+C:\Visual Studio Code\Water Bill\Water Bill\bin\Debug\Water Bill.pdb
+C:\Visual Studio Code\Water Bill\Water Bill\obj\Debug\Water Bill.csproj.AssemblyReference.cache
+C:\Visual Studio Code\Water Bill\Water Bill\obj\Debug\Water Bill.csproj.CoreCompileInputs.cache
+C:\Visual Studio Code\Water Bill\Water Bill\obj\Debug\Water Bill.exe
+C:\Visual Studio Code\Water Bill\Water Bill\obj\Debug\Water Bill.pdb
